@@ -22,6 +22,6 @@ int main()
       printf("Masukkan nilai X= ");scanf("%d",&x);
       mistery(x);
       printf("\n\nMau Ulang Lagi(0))= ");scanf("%d",&jwb);
-	  //scanf("%c",&jwb);
+	  //scanf("%c",&jwb)mmmmmm;
    }
 }
