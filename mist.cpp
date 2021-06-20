@@ -24,5 +24,6 @@ int main()
       printf("\n\nMau Ulang Lagi(0))= ");scanf("%d",&jwb);
 	  //scanf("%c",&jwb)mmmmmm;
 	  //aldo
+	  //geri
    }
 }
